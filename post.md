@@ -4,4 +4,4 @@
 * Post 2
 * Post 3
 
-<b>hello world</b>
+<b style='color:blue'>hello world</b>
